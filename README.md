@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Leandro
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me cf-leandro@outloook.com
+- 📫 How to reach me: leandrofraga@pm.me
 - 📘 Studing at IFES - Brazil
 
 <!---
